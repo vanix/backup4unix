@@ -1,0 +1,9 @@
+#set httpd port 8080 and
+#    allow 140.96.0.0/16
+#    allow 172.0.0.0/8
+#    allow vanix:vanix
+
+check host tunnel with address 140.122.92.22
+    if failed port 2222 protocol ssh with timeout 10 seconds
+        then exec "/usr/bin/ssh -NfR 2222:localhost:22 vanix@140.122.92.22"
+

@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/media/hd2/scm/w100_git/amtran_eclair_100514/vendor/itri/amtran_ces'
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_3='/media/hd2/scm/w100_git/amtran_eclair_100514/external/wpa_supplicant'
+let g:netrw_dirhist_4='/media/hd2/android/android_source/embinux_kernel_android/embinux_android_on_beagle_kernel/kernel/include/asm-arm'
+let g:netrw_dirhist_5='/home/vanix/OMAP35x_Android_Graphics_SDK_3_01_00_03/GFX_Linux_KM/eurasiacon/build/linux/omap3630_android/kbuild'
+let g:netrw_dirhist_6='/media/hd2/android/android_source/rowboat-android-eclair/hardware/broadcom/wlan/bcm4329/src/dongle'
+let g:netrw_dirhist_7='/lib/modules'
+let g:netrw_dirhist_8='/lib/modules/2.6.31.4'
+let g:netrw_dirhist_9='/home/vanix/Work/test/af9015/v4l'
